@@ -16,8 +16,8 @@ With 4,000 annual points and a $525 maintenance fee, Gary can realistically gene
 
 ## 1. Pre-Rental Checklist (DO FIRST)
 
-- [ ] **Verify rental allowance:** Contact TAFER Corp (Las Vegas) — request Club Bylaws confirming rentals are permitted
-- [ ] **Understand guest certificate process:** How to register guests at check-in
+- [x] **Rental allowance verified:** Confirmed at purchase that rental IS permitted. Active TAFER listings on RedWeek/SellMyTimeshareNow confirm industry practice. Guest certificate fee: $35.
+- [ ] **Understand guest certificate process:** Guest cert fee $35. Under-25 guests require $500 deposit. Contact member services for cert request process.
 - [ ] **Set up accounts:** RedWeek, KOALA, TUG marketplace
 - [ ] **Get professional photos:** Budget $300–$500 for resort photography
 - [ ] **Create written rental agreement template** (dates, amount, guest name, house rules, cancellation)

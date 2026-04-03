@@ -78,6 +78,12 @@
 - **Deadline:** 60 days from purchase date (by ~Jan 14, 2026)
 - **Option:** Upgrade to 50% down, finance remainder at 0% for 13 months
 
+### Payment Status (Updated April 2, 2026)
+- **Deferred down payment ($3,794):** PAID IN FULL — all 6 payments of $632.33 completed
+- **2026 maintenance fee ($525):** PAID — current and up to date
+- **Main promissory note ($11,996 at 16%):** Active — monthly payments begin Jun 15, 2026
+- **Status:** Fully current on all obligations. No outstanding balances except ongoing promissory note.
+
 ### Annual Recurring Costs
 - **Maintenance Fee:** $525/year (billed October 1–30, due upon receipt, delinquent Dec 1)
 - **Cost Per Point:** $0.13 — significantly below industry average ($0.22–$0.30)
@@ -207,10 +213,19 @@ TAFER is the premium arm of Villa Group. Your membership provides access to all 
 
 ## 7. Rental Strategy
 
+### Rental Permission Status (Confirmed)
+- **Rental IS permitted** under TAFER Residence Club membership
+- Gary and Brooke were told at purchase that rental is allowed
+- Active TAFER owner listings exist on RedWeek and SellMyTimeshareNow (confirming industry practice)
+- **Guest Certificate Fee:** $35 per guest certificate
+- **Under-25 guests:** Require $500 deposit if attending Members' Update Presentation
+- Gary has a rental agent already helping (introduced Nov 23, 2025)
+
 ### What's Allowed
-- Guest certificates (book for family/friends under your membership)
+- Guest certificates ($35 fee — book for family/friends/renters under your membership)
 - Sabio "RentalHub" (internal rental marketplace)
 - Private/word-of-mouth rentals
+- RedWeek, KOALA, TUG, SellMyTimeshareNow (third-party timeshare rental platforms)
 
 ### What's NOT Allowed
 - **Airbnb** — prohibited by contract
