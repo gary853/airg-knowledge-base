@@ -18,9 +18,9 @@ Sacramento metro area:
 - 6896 Bender Ct, 7230 Castilian Ct, 7232 Castilian Ct, 763 Bowles St
 - 8250 Alpine Ave (+ additional properties)
 
-## Active Deal
+## Lost Deal
 - **Property**: 6004 Len Court, Citrus Heights
-- **Offer**: ~$260K | **Seller Counter**: ~$311K | **Status**: Negotiating
+- **Offer**: ~$260K | **Seller Counter**: ~$311K | **Status**: Lost (Apr 2026). Did not win the contract.
 
 ## Personal Real Estate
 - **Primary Residence**: Rancho Murieta, CA (fully paid off, ~$850K–$900K)
